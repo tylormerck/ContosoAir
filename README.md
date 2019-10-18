@@ -1,4 +1,4 @@
-
+[![Build Status](https://techmerck.visualstudio.com/ContosoAir/_apis/build/status/tylormerck.ContosoAir?branchName=master)](https://techmerck.visualstudio.com/ContosoAir/_build/latest?definitionId=22&branchName=master)
 
 
 # Microsoft.Github CI Demo
